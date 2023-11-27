@@ -6,4 +6,4 @@ class Config:
     CHANNEL = int( os.getenv("channel_files_chat_id","-1001792962793") )
     CHANNEL_USERNAME = os.getenv("channel_username","Seriesplus1")
     TOKEN = "5171401480:AAETkS3FGnRlbJauRPdPg3BUJFnG0jVa2t0")
-    DOMAIN  = os.getenv("domain","https://neww-li-prod-divar-woaooq.mo5.mogenius.io")
+    DOMAIN  = os.getenv("domain","https://sub7fi.osc-fr1.scalingo.io/")
