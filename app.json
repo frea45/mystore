@@ -33,7 +33,7 @@
     "domain": {
       "description": "Heroku application domain Example: https://newdlstar.herokuapp.com",
       "required": "true",
-      "value": "https://neww-li-prod-divar-woaooq.mo5.mogenius.io"
+      "value": "https://sub7fi.osc-fr1.scalingo.io"
     }
   }
 }
